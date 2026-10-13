@@ -110,6 +110,10 @@ def main():
                         if position == 'G':
                             shots = number(g, 'shotsAgainst', 'shotsAgainstTotal')
                             saves = number(g, 'saves', 'savesTotal')
+                            if saves is None and shots is not None:
+                                goals_against = number(g, 'goalsAgainst')
+                                if goals_against is not None:
+                                    saves = max(0, shots - goals_against)
                             if shots is None or saves is None:
                                 issues.append('Goalie saves/shots unavailable for ' + str(g.get('gameDate')))
                             else: vals.update(shots=shots, saves=saves)
