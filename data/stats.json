@@ -1,0 +1,767 @@
+{
+  "season": "20262027",
+  "updatedAt": null,
+  "completedThrough": -1,
+  "roster": {
+    "Murman Advantage": {
+      "W": [
+        "Beckett Sennecke",
+        "Ivan Demidov",
+        "Matvei Michkov",
+        "Gavin McKenna"
+      ],
+      "C": [
+        "Macklin Celebrini",
+        "Adam Fantilli"
+      ],
+      "D": [
+        "Cole Hutson",
+        "Simon Nemec",
+        "Carter Yakemchuk",
+        "Axel Sandin-Pellikka"
+      ],
+      "G": [
+        "Jesper Wallstedt"
+      ]
+    },
+    "The Golden(berg) Goons": {
+      "W": [
+        "Juraj Slafkovsky",
+        "Cutter Gauthier",
+        "Jimmy Snuggerud",
+        "Ryan Leonard"
+      ],
+      "C": [
+        "Will Smith",
+        "Anton Frondell"
+      ],
+      "D": [
+        "Lane Hutson",
+        "Artyom Levshunov",
+        "Sam Dickinson",
+        "Pavel Mintyukov"
+      ],
+      "G": [
+        "Sergei Murashov"
+      ]
+    },
+    "Balnar McPuckface": {
+      "W": [
+        "Logan Cooley",
+        "Porter Martone",
+        "Zach Benson",
+        "Easton Cowan"
+      ],
+      "C": [
+        "Connor Bedard",
+        "Leo Carlsson"
+      ],
+      "D": [
+        "Matthew Schaefer",
+        "Denton Mateychuk",
+        "Zeev Buium",
+        "Zayne Parekh"
+      ],
+      "G": [
+        "Jacob Fowler"
+      ]
+    }
+  },
+  "players": [
+    {
+      "team": "Murman Advantage",
+      "position": "W",
+      "name": "Beckett Sennecke",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Murman Advantage",
+      "position": "W",
+      "name": "Ivan Demidov",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Murman Advantage",
+      "position": "W",
+      "name": "Matvei Michkov",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Murman Advantage",
+      "position": "W",
+      "name": "Gavin McKenna",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Murman Advantage",
+      "position": "C",
+      "name": "Macklin Celebrini",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Murman Advantage",
+      "position": "C",
+      "name": "Adam Fantilli",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Murman Advantage",
+      "position": "D",
+      "name": "Cole Hutson",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Murman Advantage",
+      "position": "D",
+      "name": "Simon Nemec",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Murman Advantage",
+      "position": "D",
+      "name": "Carter Yakemchuk",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Murman Advantage",
+      "position": "D",
+      "name": "Axel Sandin-Pellikka",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Murman Advantage",
+      "position": "G",
+      "name": "Jesper Wallstedt",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "The Golden(berg) Goons",
+      "position": "W",
+      "name": "Juraj Slafkovsky",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "The Golden(berg) Goons",
+      "position": "W",
+      "name": "Cutter Gauthier",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "The Golden(berg) Goons",
+      "position": "W",
+      "name": "Jimmy Snuggerud",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "The Golden(berg) Goons",
+      "position": "W",
+      "name": "Ryan Leonard",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "The Golden(berg) Goons",
+      "position": "C",
+      "name": "Will Smith",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "The Golden(berg) Goons",
+      "position": "C",
+      "name": "Anton Frondell",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "The Golden(berg) Goons",
+      "position": "D",
+      "name": "Lane Hutson",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "The Golden(berg) Goons",
+      "position": "D",
+      "name": "Artyom Levshunov",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "The Golden(berg) Goons",
+      "position": "D",
+      "name": "Sam Dickinson",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "The Golden(berg) Goons",
+      "position": "D",
+      "name": "Pavel Mintyukov",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "The Golden(berg) Goons",
+      "position": "G",
+      "name": "Sergei Murashov",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Balnar McPuckface",
+      "position": "W",
+      "name": "Logan Cooley",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Balnar McPuckface",
+      "position": "W",
+      "name": "Porter Martone",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Balnar McPuckface",
+      "position": "W",
+      "name": "Zach Benson",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Balnar McPuckface",
+      "position": "W",
+      "name": "Easton Cowan",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Balnar McPuckface",
+      "position": "C",
+      "name": "Connor Bedard",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Balnar McPuckface",
+      "position": "C",
+      "name": "Leo Carlsson",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Balnar McPuckface",
+      "position": "D",
+      "name": "Matthew Schaefer",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Balnar McPuckface",
+      "position": "D",
+      "name": "Denton Mateychuk",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Balnar McPuckface",
+      "position": "D",
+      "name": "Zeev Buium",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Balnar McPuckface",
+      "position": "D",
+      "name": "Zayne Parekh",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    },
+    {
+      "team": "Balnar McPuckface",
+      "position": "G",
+      "name": "Jacob Fowler",
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
+      "months": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "issues": [
+        "Waiting for first GitHub Actions update"
+      ]
+    }
+  ],
+  "missing": [
+    "Beckett Sennecke",
+    "Ivan Demidov",
+    "Matvei Michkov",
+    "Gavin McKenna",
+    "Macklin Celebrini",
+    "Adam Fantilli",
+    "Cole Hutson",
+    "Simon Nemec",
+    "Carter Yakemchuk",
+    "Axel Sandin-Pellikka",
+    "Jesper Wallstedt",
+    "Juraj Slafkovsky",
+    "Cutter Gauthier",
+    "Jimmy Snuggerud",
+    "Ryan Leonard",
+    "Will Smith",
+    "Anton Frondell",
+    "Lane Hutson",
+    "Artyom Levshunov",
+    "Sam Dickinson",
+    "Pavel Mintyukov",
+    "Sergei Murashov",
+    "Logan Cooley",
+    "Porter Martone",
+    "Zach Benson",
+    "Easton Cowan",
+    "Connor Bedard",
+    "Leo Carlsson",
+    "Matthew Schaefer",
+    "Denton Mateychuk",
+    "Zeev Buium",
+    "Zayne Parekh",
+    "Jacob Fowler"
+  ]
+}
