@@ -2,3 +2,18 @@
 
 /* Clickable sorting for monthly roto and category breakdown tables */
 th.sortable{cursor:pointer;user-select:none;white-space:nowrap}th.sortable:hover,th.sortable:focus-visible{color:#6ad4e7;background:#1b3048;outline-offset:-2px}th.sortable.sorted{color:#6ad4e7}.sort-arrow{font-size:10px;margin-left:3px}
+
+/* Mobile-first improvements: standings become readable cards; player and season tables remain swipeable. */
+html{scroll-behavior:smooth}button,select{min-height:44px}button:focus-visible,select:focus-visible{outline:2px solid #69d3ed;outline-offset:2px}
+.mobile-sort-controls{display:none}
+@media(max-width:700px){
+ main{padding:12px 12px 48px}header{padding:22px 4px 12px}header h1{letter-spacing:-1px;line-height:1.08}header p{font-size:14px;line-height:1.5;margin:12px 0}.meta{gap:10px;line-height:1.5}.meta #status{flex:1 1 100%;overflow-wrap:anywhere}
+ nav{gap:8px;padding:12px 0 18px;scroll-snap-type:x proximity;scrollbar-width:thin}nav button{scroll-snap-align:start;padding:10px 15px;flex-shrink:0}
+ .tiles{grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}.tile,.panel{padding:14px;border-radius:12px}.tile{min-width:0;padding:12px 9px}.tile small{font-size:10px;line-height:1.4;margin-bottom:7px}.tile strong{font-size:12px;line-height:1.4;overflow-wrap:anywhere}.tile span{display:block;font-size:11px;margin-top:7px;line-height:1.4}
+ .panel h2{font-size:18px;line-height:1.35}.panel p{line-height:1.55;margin-bottom:12px}.sectionhead{gap:10px}.sectionhead select{width:100%;max-width:100%}
+ .mobile-sort-controls{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:10px 0 14px}.mobile-sort-controls label{font-size:12px;color:#9aabc3}.mobile-sort-controls select{min-width:0;flex:1;font-size:13px}.mobile-sort-controls button{font-size:12px;white-space:nowrap}
+ #roto,#categories{display:block;width:100%;white-space:normal}#roto thead,#categories thead{display:none}#roto tbody,#categories tbody{display:grid;gap:10px}#roto tr,#categories tr{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 12px;padding:13px;border:1px solid #2c4562;border-radius:12px;background:#14243a}#roto td,#categories td{display:flex;flex-direction:column;align-items:flex-start;justify-content:center;min-width:0;padding:0;border:0;text-align:left;font-size:13px;overflow-wrap:anywhere}#roto td:before,#categories td:before{content:attr(data-label);font-size:10px;text-transform:uppercase;letter-spacing:.4px;color:#91a9c7;margin-bottom:3px}#roto td:nth-child(2),#categories td:first-child{grid-column:1/-1;padding-bottom:8px;margin-bottom:3px;border-bottom:1px solid #31445d;font-size:15px}#roto td:nth-child(2):before,#categories td:first-child:before{display:none}#roto td:last-child{grid-column:1/-1;padding-top:9px;margin-top:2px;border-top:1px solid #31445d;color:#6ad4e7}#categories td .muted{display:inline;font-size:11px}
+ #season,#players{font-size:12px}#season th,#season td,#players th,#players td{padding:11px 10px}#season th:first-child,#season td:first-child,#players th:nth-child(2),#players td:nth-child(2){position:sticky;left:0;background:#101c2e;z-index:1;box-shadow:2px 0 4px #090f1c}#players th:nth-child(2),#players td:nth-child(2){left:48px}#players th:first-child,#players td:first-child{position:sticky;left:0;background:#101c2e;z-index:2;min-width:48px}#players th:nth-child(2),#players td:nth-child(2){z-index:2;min-width:140px}
+ .scroll{max-width:100%;overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch}footer{padding:0 4px}
+}
+@media(max-width:370px){.tiles{grid-template-columns:1fr}.tile strong{font-size:16px}.tile{padding:12px}.mobile-sort-controls label{flex-basis:100%}}
