@@ -79,6 +79,16 @@ def hits_report(player_id):
     if rows is None: raise ValueError('Hits report missing data')
     return {str(row['gameId']): row['hits'] for row in rows if row.get('gameId') is not None and row.get('hits') is not None}
 
+def goalie_report(player_id):
+    """Get per-game goalie shot totals from the NHL stats reports endpoint."""
+    expr = urllib.parse.quote(f'seasonId={SEASON} and gameTypeId=2 and playerId={player_id}')
+    url = (f'https://api.nhle.com/stats/rest/en/goalie/summary?'
+           f'isAggregate=false&isGame=true&start=0&limit=200&cayenneExp={expr}')
+    rows = fetch(url).get('data')
+    if not isinstance(rows, list):
+        raise ValueError('Goalie summary report missing data')
+    return {str(row['gameId']): row for row in rows if row.get('gameId') is not None}
+
 def main():
     people = directory()
     players, missing = [], []
@@ -99,6 +109,12 @@ def main():
                     except Exception as e:
                         games = []
                         issues.append('Game log unavailable: ' + str(e))
+                    goalie_games = {}
+                    if position == 'G':
+                        try:
+                            goalie_games = goalie_report(pid)
+                        except Exception as e:
+                            issues.append('Goalie summary report unavailable: ' + str(e))
                     hits = {}
                     if position != 'G' and games:
                         try: hits = hits_report(pid)
@@ -110,12 +126,25 @@ def main():
                         if position == 'G':
                             # NHL goalie game logs may expose a save percentage
                             # without an explicit saves count.
+                            report = goalie_games.get(str(g.get('gameId')), {})
                             shots = number(g, 'shotsAgainst', 'shotsAgainstTotal', 'shots')
                             saves = number(g, 'saves', 'savesTotal')
                             goals_against = number(g, 'goalsAgainst', 'goalsAgainstTotal')
                             pct = number(g, 'savePctg', 'savePct', 'savePercentage')
                             if pct is not None and pct > 1:
                                 pct /= 100.0
+                            # The NHL web game-log often omits shots/saves entirely.
+                            # The per-game NHL goalie summary report provides them.
+                            if shots is None:
+                                shots = number(report, 'shotsAgainst', 'shotsAgainstTotal')
+                            if saves is None:
+                                saves = number(report, 'saves', 'savesTotal')
+                            if goals_against is None:
+                                goals_against = number(report, 'goalsAgainst')
+                            if pct is None:
+                                pct = number(report, 'savePct', 'savePctg', 'savePercentage')
+                                if pct is not None and pct > 1:
+                                    pct /= 100.0
                             if shots is None and saves is not None and goals_against is not None:
                                 shots = saves + goals_against
                             if saves is None and shots is not None and goals_against is not None:
