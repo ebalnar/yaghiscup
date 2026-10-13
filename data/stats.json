@@ -1,6 +1,6 @@
 {
   "season": "20262027",
-  "updatedAt": "2026-10-13T20:27:35.847219+00:00",
+  "updatedAt": "2026-10-13T20:42:18.452150+00:00",
   "completedThrough": -1,
   "roster": {
     "Murman Advantage": {
@@ -317,6 +317,8 @@
       "unresolved": false,
       "months": [
         {
+          "shots": 163.0,
+          "saves": 152.0,
           "wins": 4,
           "shutouts": 0.0
         },
@@ -327,14 +329,7 @@
         {},
         {}
       ],
-      "issues": [
-        "Goalie saves/shots unavailable for 2026-10-01",
-        "Goalie saves/shots unavailable for 2026-10-03",
-        "Goalie saves/shots unavailable for 2026-10-06",
-        "Goalie saves/shots unavailable for 2026-10-08",
-        "Goalie saves/shots unavailable for 2026-10-10",
-        "Goalie saves/shots unavailable for 2026-10-12"
-      ]
+      "issues": []
     },
     {
       "team": "The Golden(berg) Goons",
@@ -585,6 +580,8 @@
       "unresolved": false,
       "months": [
         {
+          "shots": 82.0,
+          "saves": 77.0,
           "wins": 0,
           "shutouts": 0.0
         },
@@ -595,10 +592,7 @@
         {},
         {}
       ],
-      "issues": [
-        "Goalie saves/shots unavailable for 2026-10-05",
-        "Goalie saves/shots unavailable for 2026-10-09"
-      ]
+      "issues": []
     },
     {
       "team": "Balnar McPuckface",
@@ -843,6 +837,8 @@
       "unresolved": false,
       "months": [
         {
+          "shots": 48.0,
+          "saves": 45.0,
           "wins": 1,
           "shutouts": 1.0
         },
@@ -853,10 +849,7 @@
         {},
         {}
       ],
-      "issues": [
-        "Goalie saves/shots unavailable for 2026-10-08",
-        "Goalie saves/shots unavailable for 2026-10-10"
-      ]
+      "issues": []
     }
   ],
   "missing": []
