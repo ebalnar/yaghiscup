@@ -1,6 +1,6 @@
 {
   "season": "20262027",
-  "updatedAt": null,
+  "updatedAt": "2026-10-13T20:27:35.847219+00:00",
   "completedThrough": -1,
   "roster": {
     "Murman Advantage": {
@@ -72,11 +72,17 @@
       "team": "Murman Advantage",
       "position": "W",
       "name": "Beckett Sennecke",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "ANA",
+      "id": 8484762,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 3.0,
+          "assists": 3.0,
+          "ppp": 3.0,
+          "gwg": 0.0,
+          "hits": 9.0
+        },
         {},
         {},
         {},
@@ -84,19 +90,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Murman Advantage",
       "position": "W",
       "name": "Ivan Demidov",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "MTL",
+      "id": 8484984,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 1.0,
+          "assists": 1.0,
+          "ppp": 0.0,
+          "gwg": 0.0,
+          "hits": 3.0
+        },
         {},
         {},
         {},
@@ -104,19 +114,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Murman Advantage",
       "position": "W",
       "name": "Matvei Michkov",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "PHI",
+      "id": 8484387,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 2.0,
+          "assists": 0.0,
+          "ppp": 1.0,
+          "gwg": 0.0,
+          "hits": 0.0
+        },
         {},
         {},
         {},
@@ -124,19 +138,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Murman Advantage",
       "position": "W",
       "name": "Gavin McKenna",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "TOR",
+      "id": 8486067,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 1.0,
+          "assists": 3.0,
+          "ppp": 1.0,
+          "gwg": 0.0,
+          "hits": 0.0
+        },
         {},
         {},
         {},
@@ -144,19 +162,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Murman Advantage",
       "position": "C",
       "name": "Macklin Celebrini",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "SJS",
+      "id": 8484801,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 1.0,
+          "assists": 5.0,
+          "ppp": 2.0,
+          "gwg": 0.0,
+          "hits": 2.0
+        },
         {},
         {},
         {},
@@ -164,19 +186,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Murman Advantage",
       "position": "C",
       "name": "Adam Fantilli",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "CBJ",
+      "id": 8484166,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 1.0,
+          "assists": 1.0,
+          "ppp": 0.0,
+          "gwg": 0.0,
+          "hits": 11.0
+        },
         {},
         {},
         {},
@@ -184,19 +210,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Murman Advantage",
       "position": "D",
       "name": "Cole Hutson",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "WSH",
+      "id": 8484873,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 1.0,
+          "assists": 2.0,
+          "ppp": 1.0,
+          "gwg": 0.0,
+          "hits": 2.0
+        },
         {},
         {},
         {},
@@ -204,19 +234,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Murman Advantage",
       "position": "D",
       "name": "Simon Nemec",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "CGY",
+      "id": 8483495,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 0.0,
+          "assists": 1.0,
+          "ppp": 0.0,
+          "gwg": 0.0,
+          "hits": 1.0
+        },
         {},
         {},
         {},
@@ -224,19 +258,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Murman Advantage",
       "position": "D",
       "name": "Carter Yakemchuk",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "OTT",
+      "id": 8484759,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 1.0,
+          "assists": 1.0,
+          "ppp": 2.0,
+          "gwg": 1.0,
+          "hits": 1.0
+        },
         {},
         {},
         {},
@@ -244,19 +282,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Murman Advantage",
       "position": "D",
       "name": "Axel Sandin-Pellikka",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "DET",
+      "id": 8484223,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 0.0,
+          "assists": 0.0,
+          "ppp": 0.0,
+          "gwg": 0.0,
+          "hits": 2.0
+        },
         {},
         {},
         {},
@@ -264,19 +306,20 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Murman Advantage",
       "position": "G",
       "name": "Jesper Wallstedt",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "MIN",
+      "id": 8482661,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "wins": 4,
+          "shutouts": 0.0
+        },
         {},
         {},
         {},
@@ -285,18 +328,29 @@
         {}
       ],
       "issues": [
-        "Waiting for first GitHub Actions update"
+        "Goalie saves/shots unavailable for 2026-10-01",
+        "Goalie saves/shots unavailable for 2026-10-03",
+        "Goalie saves/shots unavailable for 2026-10-06",
+        "Goalie saves/shots unavailable for 2026-10-08",
+        "Goalie saves/shots unavailable for 2026-10-10",
+        "Goalie saves/shots unavailable for 2026-10-12"
       ]
     },
     {
       "team": "The Golden(berg) Goons",
       "position": "W",
       "name": "Juraj Slafkovsky",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "MTL",
+      "id": 8483515,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 1.0,
+          "assists": 0.0,
+          "ppp": 0.0,
+          "gwg": 0.0,
+          "hits": 5.0
+        },
         {},
         {},
         {},
@@ -304,19 +358,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "The Golden(berg) Goons",
       "position": "W",
       "name": "Cutter Gauthier",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "ANA",
+      "id": 8483445,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 2.0,
+          "assists": 2.0,
+          "ppp": 3.0,
+          "gwg": 0.0,
+          "hits": 5.0
+        },
         {},
         {},
         {},
@@ -324,19 +382,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "The Golden(berg) Goons",
       "position": "W",
       "name": "Jimmy Snuggerud",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "STL",
+      "id": 8483516,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 3.0,
+          "assists": 1.0,
+          "ppp": 0.0,
+          "gwg": 0.0,
+          "hits": 6.0
+        },
         {},
         {},
         {},
@@ -344,19 +406,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "The Golden(berg) Goons",
       "position": "W",
       "name": "Ryan Leonard",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "WSH",
+      "id": 8484186,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 2.0,
+          "assists": 2.0,
+          "ppp": 1.0,
+          "gwg": 0.0,
+          "hits": 12.0
+        },
         {},
         {},
         {},
@@ -364,19 +430,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "The Golden(berg) Goons",
       "position": "C",
       "name": "Will Smith",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "SJS",
+      "id": 8484227,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 2.0,
+          "assists": 1.0,
+          "ppp": 1.0,
+          "gwg": 0.0,
+          "hits": 3.0
+        },
         {},
         {},
         {},
@@ -384,19 +454,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "The Golden(berg) Goons",
       "position": "C",
       "name": "Anton Frondell",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "CHI",
+      "id": 8485391,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 1.0,
+          "assists": 3.0,
+          "ppp": 0.0,
+          "gwg": 0.0,
+          "hits": 6.0
+        },
         {},
         {},
         {},
@@ -404,19 +478,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "The Golden(berg) Goons",
       "position": "D",
       "name": "Lane Hutson",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "MTL",
+      "id": 8483457,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 0.0,
+          "assists": 4.0,
+          "ppp": 0.0,
+          "gwg": 0.0,
+          "hits": 0.0
+        },
         {},
         {},
         {},
@@ -424,19 +502,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "The Golden(berg) Goons",
       "position": "D",
       "name": "Artyom Levshunov",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "CHI",
+      "id": 8484783,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 0.0,
+          "assists": 1.0,
+          "ppp": 0.0,
+          "gwg": 0.0,
+          "hits": 7.0
+        },
         {},
         {},
         {},
@@ -444,19 +526,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "The Golden(berg) Goons",
       "position": "D",
       "name": "Sam Dickinson",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "SJS",
+      "id": 8484806,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 0.0,
+          "assists": 1.0,
+          "ppp": 0.0,
+          "gwg": 0.0,
+          "hits": 6.0
+        },
         {},
         {},
         {},
@@ -464,19 +550,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "The Golden(berg) Goons",
       "position": "D",
       "name": "Pavel Mintyukov",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "ANA",
+      "id": 8483490,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 0.0,
+          "assists": 1.0,
+          "ppp": 0.0,
+          "gwg": 0.0,
+          "hits": 1.0
+        },
         {},
         {},
         {},
@@ -484,19 +574,20 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "The Golden(berg) Goons",
       "position": "G",
       "name": "Sergei Murashov",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "PIT",
+      "id": 8483703,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "wins": 0,
+          "shutouts": 0.0
+        },
         {},
         {},
         {},
@@ -505,18 +596,25 @@
         {}
       ],
       "issues": [
-        "Waiting for first GitHub Actions update"
+        "Goalie saves/shots unavailable for 2026-10-05",
+        "Goalie saves/shots unavailable for 2026-10-09"
       ]
     },
     {
       "team": "Balnar McPuckface",
       "position": "W",
       "name": "Logan Cooley",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "UTA",
+      "id": 8483431,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 0.0,
+          "assists": 5.0,
+          "ppp": 5.0,
+          "gwg": 0.0,
+          "hits": 9.0
+        },
         {},
         {},
         {},
@@ -524,19 +622,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Balnar McPuckface",
       "position": "W",
       "name": "Porter Martone",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "PHI",
+      "id": 8485406,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 1.0,
+          "assists": 0.0,
+          "ppp": 1.0,
+          "gwg": 0.0,
+          "hits": 6.0
+        },
         {},
         {},
         {},
@@ -544,19 +646,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Balnar McPuckface",
       "position": "W",
       "name": "Zach Benson",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "BUF",
+      "id": 8484145,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 0.0,
+          "assists": 2.0,
+          "ppp": 1.0,
+          "gwg": 0.0,
+          "hits": 9.0
+        },
         {},
         {},
         {},
@@ -564,19 +670,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Balnar McPuckface",
       "position": "W",
       "name": "Easton Cowan",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "TOR",
+      "id": 8484158,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 3.0,
+          "assists": 2.0,
+          "ppp": 1.0,
+          "gwg": 2.0,
+          "hits": 7.0
+        },
         {},
         {},
         {},
@@ -584,17 +694,15 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Balnar McPuckface",
       "position": "C",
       "name": "Connor Bedard",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "CHI",
+      "id": 8484144,
+      "unresolved": false,
       "months": [
         {},
         {},
@@ -604,19 +712,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Balnar McPuckface",
       "position": "C",
       "name": "Leo Carlsson",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "ANA",
+      "id": 8484153,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 1.0,
+          "assists": 7.0,
+          "ppp": 6.0,
+          "gwg": 1.0,
+          "hits": 1.0
+        },
         {},
         {},
         {},
@@ -624,19 +736,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Balnar McPuckface",
       "position": "D",
       "name": "Matthew Schaefer",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "NYI",
+      "id": 8485366,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 0.0,
+          "assists": 4.0,
+          "ppp": 2.0,
+          "gwg": 0.0,
+          "hits": 2.0
+        },
         {},
         {},
         {},
@@ -644,19 +760,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Balnar McPuckface",
       "position": "D",
       "name": "Denton Mateychuk",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "CBJ",
+      "id": 8483485,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 0.0,
+          "assists": 1.0,
+          "ppp": 0.0,
+          "gwg": 0.0,
+          "hits": 1.0
+        },
         {},
         {},
         {},
@@ -664,19 +784,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Balnar McPuckface",
       "position": "D",
       "name": "Zeev Buium",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "VAN",
+      "id": 8484798,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 0.0,
+          "assists": 1.0,
+          "ppp": 0.0,
+          "gwg": 0.0,
+          "hits": 1.0
+        },
         {},
         {},
         {},
@@ -684,19 +808,23 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Balnar McPuckface",
       "position": "D",
       "name": "Zayne Parekh",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "CGY",
+      "id": 8484768,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "goals": 0.0,
+          "assists": 1.0,
+          "ppp": 1.0,
+          "gwg": 0.0,
+          "hits": 4.0
+        },
         {},
         {},
         {},
@@ -704,19 +832,20 @@
         {},
         {}
       ],
-      "issues": [
-        "Waiting for first GitHub Actions update"
-      ]
+      "issues": []
     },
     {
       "team": "Balnar McPuckface",
       "position": "G",
       "name": "Jacob Fowler",
-      "nhlTeam": "",
-      "id": null,
-      "unresolved": true,
+      "nhlTeam": "MTL",
+      "id": 8484170,
+      "unresolved": false,
       "months": [
-        {},
+        {
+          "wins": 1,
+          "shutouts": 1.0
+        },
         {},
         {},
         {},
@@ -725,43 +854,10 @@
         {}
       ],
       "issues": [
-        "Waiting for first GitHub Actions update"
+        "Goalie saves/shots unavailable for 2026-10-08",
+        "Goalie saves/shots unavailable for 2026-10-10"
       ]
     }
   ],
-  "missing": [
-    "Beckett Sennecke",
-    "Ivan Demidov",
-    "Matvei Michkov",
-    "Gavin McKenna",
-    "Macklin Celebrini",
-    "Adam Fantilli",
-    "Cole Hutson",
-    "Simon Nemec",
-    "Carter Yakemchuk",
-    "Axel Sandin-Pellikka",
-    "Jesper Wallstedt",
-    "Juraj Slafkovsky",
-    "Cutter Gauthier",
-    "Jimmy Snuggerud",
-    "Ryan Leonard",
-    "Will Smith",
-    "Anton Frondell",
-    "Lane Hutson",
-    "Artyom Levshunov",
-    "Sam Dickinson",
-    "Pavel Mintyukov",
-    "Sergei Murashov",
-    "Logan Cooley",
-    "Porter Martone",
-    "Zach Benson",
-    "Easton Cowan",
-    "Connor Bedard",
-    "Leo Carlsson",
-    "Matthew Schaefer",
-    "Denton Mateychuk",
-    "Zeev Buium",
-    "Zayne Parekh",
-    "Jacob Fowler"
-  ]
+  "missing": []
 }
