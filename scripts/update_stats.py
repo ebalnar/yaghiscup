@@ -108,15 +108,24 @@ def main():
                         if m < 0: continue
                         vals = {}
                         if position == 'G':
-                            shots = number(g, 'shotsAgainst', 'shotsAgainstTotal')
+                            # NHL goalie game logs may expose a save percentage
+                            # without an explicit saves count.
+                            shots = number(g, 'shotsAgainst', 'shotsAgainstTotal', 'shots')
                             saves = number(g, 'saves', 'savesTotal')
-                            if saves is None and shots is not None:
-                                goals_against = number(g, 'goalsAgainst')
-                                if goals_against is not None:
-                                    saves = max(0, shots - goals_against)
-                            if shots is None or saves is None:
+                            goals_against = number(g, 'goalsAgainst', 'goalsAgainstTotal')
+                            pct = number(g, 'savePctg', 'savePct', 'savePercentage')
+                            if pct is not None and pct > 1:
+                                pct /= 100.0
+                            if shots is None and saves is not None and goals_against is not None:
+                                shots = saves + goals_against
+                            if saves is None and shots is not None and goals_against is not None:
+                                saves = shots - goals_against
+                            if saves is None and shots is not None and pct is not None:
+                                saves = round(shots * pct)
+                            if shots is None or saves is None or shots < 0 or saves < 0 or saves > shots:
                                 issues.append('Goalie saves/shots unavailable for ' + str(g.get('gameDate')))
-                            else: vals.update(shots=shots, saves=saves)
+                            else:
+                                vals.update(shots=shots, saves=saves)
                             decision = str(g.get('decision', '')).upper()
                             vals['wins'] = 1 if decision in ('W', 'WIN') else 0
                             shutouts = number(g, 'shutouts')
