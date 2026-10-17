@@ -1,6 +1,6 @@
 {
   "season": "20262027",
-  "updatedAt": "2026-10-16T12:03:42.655972+00:00",
+  "updatedAt": "2026-10-17T12:02:57.823056+00:00",
   "completedThrough": -1,
   "roster": {
     "Murman Advantage": {
@@ -77,7 +77,7 @@
       "unresolved": false,
       "months": [
         {
-          "goals": 4.0,
+          "goals": 5.0,
           "assists": 3.0,
           "ppp": 3.0,
           "gwg": 0.0,
@@ -317,8 +317,8 @@
       "unresolved": false,
       "months": [
         {
-          "shots": 188.0,
-          "saves": 173.0,
+          "shots": 189.0,
+          "saves": 174.0,
           "wins": 5,
           "shutouts": 0.0
         },
@@ -365,10 +365,10 @@
       "months": [
         {
           "goals": 2.0,
-          "assists": 2.0,
+          "assists": 3.0,
           "ppp": 3.0,
           "gwg": 0.0,
-          "hits": 5.0
+          "hits": 6.0
         },
         {},
         {},
@@ -727,7 +727,7 @@
           "assists": 7.0,
           "ppp": 7.0,
           "gwg": 1.0,
-          "hits": 1.0
+          "hits": 2.0
         },
         {},
         {},
