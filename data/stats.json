@@ -1,6 +1,6 @@
 {
   "season": "20262027",
-  "updatedAt": "2026-10-20T12:03:29.802912+00:00",
+  "updatedAt": "2026-10-21T12:03:21.345810+00:00",
   "completedThrough": -1,
   "roster": {
     "Murman Advantage": {
@@ -81,7 +81,7 @@
           "assists": 3.0,
           "ppp": 3.0,
           "gwg": 0.0,
-          "hits": 11.0
+          "hits": 12.0
         },
         {},
         {},
@@ -173,11 +173,11 @@
       "unresolved": false,
       "months": [
         {
-          "goals": 3.0,
-          "assists": 8.0,
-          "ppp": 6.0,
-          "gwg": 0.0,
-          "hits": 4.0
+          "goals": 5.0,
+          "assists": 9.0,
+          "ppp": 8.0,
+          "gwg": 1.0,
+          "hits": 5.0
         },
         {},
         {},
@@ -201,7 +201,7 @@
           "assists": 1.0,
           "ppp": 0.0,
           "gwg": 0.0,
-          "hits": 13.0
+          "hits": 15.0
         },
         {},
         {},
@@ -221,9 +221,9 @@
       "unresolved": false,
       "months": [
         {
-          "goals": 1.0,
+          "goals": 2.0,
           "assists": 3.0,
-          "ppp": 1.0,
+          "ppp": 2.0,
           "gwg": 0.0,
           "hits": 6.0
         },
@@ -297,7 +297,7 @@
           "assists": 1.0,
           "ppp": 0.0,
           "gwg": 0.0,
-          "hits": 2.0
+          "hits": 3.0
         },
         {},
         {},
@@ -317,8 +317,8 @@
       "unresolved": false,
       "months": [
         {
-          "shots": 204.0,
-          "saves": 188.0,
+          "shots": 236.0,
+          "saves": 216.0,
           "wins": 6,
           "shutouts": 0.0
         },
@@ -340,11 +340,11 @@
       "unresolved": false,
       "months": [
         {
-          "goals": 1.0,
-          "assists": 4.0,
+          "goals": 2.0,
+          "assists": 5.0,
           "ppp": 2.0,
           "gwg": 0.0,
-          "hits": 7.0
+          "hits": 8.0
         },
         {},
         {},
@@ -368,7 +368,7 @@
           "assists": 3.0,
           "ppp": 3.0,
           "gwg": 0.0,
-          "hits": 7.0
+          "hits": 8.0
         },
         {},
         {},
@@ -388,11 +388,11 @@
       "unresolved": false,
       "months": [
         {
-          "goals": 4.0,
+          "goals": 5.0,
           "assists": 1.0,
           "ppp": 1.0,
           "gwg": 0.0,
-          "hits": 7.0
+          "hits": 8.0
         },
         {},
         {},
@@ -412,11 +412,11 @@
       "unresolved": false,
       "months": [
         {
-          "goals": 3.0,
+          "goals": 4.0,
           "assists": 4.0,
           "ppp": 2.0,
           "gwg": 0.0,
-          "hits": 14.0
+          "hits": 16.0
         },
         {},
         {},
@@ -437,8 +437,8 @@
       "months": [
         {
           "goals": 3.0,
-          "assists": 3.0,
-          "ppp": 2.0,
+          "assists": 4.0,
+          "ppp": 3.0,
           "gwg": 0.0,
           "hits": 5.0
         },
@@ -485,10 +485,10 @@
       "months": [
         {
           "goals": 2.0,
-          "assists": 6.0,
+          "assists": 7.0,
           "ppp": 2.0,
           "gwg": 0.0,
-          "hits": 0.0
+          "hits": 1.0
         },
         {},
         {},
@@ -536,7 +536,7 @@
           "assists": 1.0,
           "ppp": 0.0,
           "gwg": 0.0,
-          "hits": 14.0
+          "hits": 15.0
         },
         {},
         {},
@@ -675,8 +675,8 @@
       "unresolved": false,
       "months": [
         {
-          "goals": 3.0,
-          "assists": 4.0,
+          "goals": 4.0,
+          "assists": 6.0,
           "ppp": 1.0,
           "gwg": 2.0,
           "hits": 10.0
@@ -724,7 +724,7 @@
       "months": [
         {
           "goals": 2.0,
-          "assists": 7.0,
+          "assists": 9.0,
           "ppp": 7.0,
           "gwg": 1.0,
           "hits": 2.0
@@ -748,8 +748,8 @@
       "months": [
         {
           "goals": 0.0,
-          "assists": 7.0,
-          "ppp": 2.0,
+          "assists": 8.0,
+          "ppp": 3.0,
           "gwg": 0.0,
           "hits": 4.0
         },
@@ -796,7 +796,7 @@
       "months": [
         {
           "goals": 0.0,
-          "assists": 1.0,
+          "assists": 2.0,
           "ppp": 0.0,
           "gwg": 0.0,
           "hits": 1.0
