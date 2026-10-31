@@ -1,6 +1,6 @@
 {
   "season": "20262027",
-  "updatedAt": "2026-10-30T12:02:46.546132+00:00",
+  "updatedAt": "2026-10-31T12:02:33.192949+00:00",
   "completedThrough": -1,
   "roster": {
     "Murman Advantage": {
@@ -249,7 +249,7 @@
           "assists": 5.0,
           "ppp": 0.0,
           "gwg": 0.0,
-          "hits": 3.0
+          "hits": 4.0
         },
         {},
         {},
@@ -288,17 +288,11 @@
       "team": "Murman Advantage",
       "position": "D",
       "name": "Axel Sandin-Pellikka",
-      "nhlTeam": "DET",
-      "id": 8484223,
-      "unresolved": false,
+      "nhlTeam": "",
+      "id": null,
+      "unresolved": true,
       "months": [
-        {
-          "goals": 0.0,
-          "assists": 1.0,
-          "ppp": 0.0,
-          "gwg": 0.0,
-          "hits": 3.0
-        },
+        {},
         {},
         {},
         {},
@@ -306,7 +300,9 @@
         {},
         {}
       ],
-      "issues": []
+      "issues": [
+        "NHL player ID not resolved; add an ID to player-ids.json"
+      ]
     },
     {
       "team": "Murman Advantage",
@@ -655,7 +651,7 @@
           "assists": 9.0,
           "ppp": 2.0,
           "gwg": 1.0,
-          "hits": 17.0
+          "hits": 16.0
         },
         {},
         {},
@@ -858,5 +854,7 @@
       "issues": []
     }
   ],
-  "missing": []
+  "missing": [
+    "Axel Sandin-Pellikka"
+  ]
 }
