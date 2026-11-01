@@ -1,7 +1,7 @@
 {
   "season": "20262027",
-  "updatedAt": "2026-10-31T12:02:33.192949+00:00",
-  "completedThrough": -1,
+  "updatedAt": "2026-11-01T12:02:25.924399+00:00",
+  "completedThrough": 0,
   "roster": {
     "Murman Advantage": {
       "W": [
@@ -201,7 +201,7 @@
           "assists": 2.0,
           "ppp": 1.0,
           "gwg": 1.0,
-          "hits": 26.0
+          "hits": 31.0
         },
         {},
         {},
@@ -249,7 +249,7 @@
           "assists": 5.0,
           "ppp": 0.0,
           "gwg": 0.0,
-          "hits": 4.0
+          "hits": 5.0
         },
         {},
         {},
@@ -384,11 +384,11 @@
       "unresolved": false,
       "months": [
         {
-          "goals": 7.0,
-          "assists": 2.0,
+          "goals": 8.0,
+          "assists": 3.0,
           "ppp": 3.0,
           "gwg": 0.0,
-          "hits": 8.0
+          "hits": 9.0
         },
         {},
         {},
@@ -456,11 +456,11 @@
       "unresolved": false,
       "months": [
         {
-          "goals": 1.0,
+          "goals": 3.0,
           "assists": 5.0,
-          "ppp": 0.0,
+          "ppp": 1.0,
           "gwg": 0.0,
-          "hits": 11.0
+          "hits": 12.0
         },
         {},
         {},
@@ -481,10 +481,10 @@
       "months": [
         {
           "goals": 3.0,
-          "assists": 8.0,
+          "assists": 10.0,
           "ppp": 2.0,
           "gwg": 0.0,
-          "hits": 1.0
+          "hits": 2.0
         },
         {},
         {},
@@ -508,7 +508,7 @@
           "assists": 2.0,
           "ppp": 0.0,
           "gwg": 1.0,
-          "hits": 25.0
+          "hits": 26.0
         },
         {},
         {},
@@ -576,8 +576,8 @@
       "unresolved": false,
       "months": [
         {
-          "shots": 120.0,
-          "saves": 106.0,
+          "shots": 147.0,
+          "saves": 128.0,
           "wins": 0,
           "shutouts": 0.0
         },
@@ -648,10 +648,10 @@
       "months": [
         {
           "goals": 2.0,
-          "assists": 9.0,
-          "ppp": 2.0,
+          "assists": 11.0,
+          "ppp": 3.0,
           "gwg": 1.0,
-          "hits": 16.0
+          "hits": 17.0
         },
         {},
         {},
@@ -695,11 +695,11 @@
       "unresolved": false,
       "months": [
         {
-          "goals": 3.0,
-          "assists": 4.0,
-          "ppp": 3.0,
+          "goals": 4.0,
+          "assists": 5.0,
+          "ppp": 4.0,
           "gwg": 0.0,
-          "hits": 3.0
+          "hits": 4.0
         },
         {},
         {},
@@ -747,7 +747,7 @@
           "assists": 10.0,
           "ppp": 4.0,
           "gwg": 1.0,
-          "hits": 7.0
+          "hits": 10.0
         },
         {},
         {},
@@ -795,7 +795,7 @@
           "assists": 4.0,
           "ppp": 0.0,
           "gwg": 0.0,
-          "hits": 1.0
+          "hits": 2.0
         },
         {},
         {},
@@ -816,7 +816,7 @@
       "months": [
         {
           "goals": 1.0,
-          "assists": 3.0,
+          "assists": 4.0,
           "ppp": 4.0,
           "gwg": 1.0,
           "hits": 6.0
@@ -839,9 +839,9 @@
       "unresolved": false,
       "months": [
         {
-          "shots": 191.0,
-          "saves": 180.0,
-          "wins": 6,
+          "shots": 220.0,
+          "saves": 205.0,
+          "wins": 7,
           "shutouts": 2.0
         },
         {},
