@@ -1,6 +1,6 @@
 {
   "season": "20262027",
-  "updatedAt": "2026-11-10T18:58:39.236504+00:00",
+  "updatedAt": "2026-11-11T18:56:52.304346+00:00",
   "completedThrough": 0,
   "roster": {
     "Murman Advantage": {
@@ -169,7 +169,7 @@
         },
         {
           "goals": 1.0,
-          "assists": 0.0,
+          "assists": 1.0,
           "ppp": 0.0,
           "gwg": 0.0,
           "hits": 0.0
@@ -232,7 +232,7 @@
           "assists": 0.0,
           "ppp": 0.0,
           "gwg": 0.0,
-          "hits": 2.0
+          "hits": 4.0
         },
         {},
         {},
@@ -258,11 +258,11 @@
           "hits": 12.0
         },
         {
-          "goals": 0.0,
-          "assists": 2.0,
+          "goals": 1.0,
+          "assists": 3.0,
           "ppp": 1.0,
-          "gwg": 0.0,
-          "hits": 3.0
+          "gwg": 1.0,
+          "hits": 5.0
         },
         {},
         {},
@@ -367,9 +367,9 @@
           "shutouts": 0.0
         },
         {
-          "shots": 76.0,
-          "saves": 72.0,
-          "wins": 3,
+          "shots": 104.0,
+          "saves": 99.0,
+          "wins": 4,
           "shutouts": 0.0
         },
         {},
@@ -400,7 +400,7 @@
           "assists": 3.0,
           "ppp": 2.0,
           "gwg": 0.0,
-          "hits": 3.0
+          "hits": 4.0
         },
         {},
         {},
@@ -456,11 +456,11 @@
           "hits": 9.0
         },
         {
-          "goals": 1.0,
-          "assists": 0.0,
+          "goals": 2.0,
+          "assists": 1.0,
           "ppp": 1.0,
-          "gwg": 0.0,
-          "hits": 5.0
+          "gwg": 1.0,
+          "hits": 6.0
         },
         {},
         {},
@@ -490,7 +490,7 @@
           "assists": 2.0,
           "ppp": 0.0,
           "gwg": 0.0,
-          "hits": 5.0
+          "hits": 7.0
         },
         {},
         {},
@@ -577,7 +577,7 @@
         },
         {
           "goals": 0.0,
-          "assists": 4.0,
+          "assists": 5.0,
           "ppp": 3.0,
           "gwg": 0.0,
           "hits": 0.0
@@ -814,11 +814,11 @@
           "hits": 13.0
         },
         {
-          "goals": 0.0,
-          "assists": 0.0,
+          "goals": 1.0,
+          "assists": 1.0,
           "ppp": 0.0,
           "gwg": 0.0,
-          "hits": 7.0
+          "hits": 10.0
         },
         {},
         {},
@@ -938,7 +938,7 @@
           "assists": 2.0,
           "ppp": 0.0,
           "gwg": 0.0,
-          "hits": 0.0
+          "hits": 1.0
         },
         {},
         {},
@@ -1023,8 +1023,8 @@
           "shutouts": 2.0
         },
         {
-          "shots": 75.0,
-          "saves": 68.0,
+          "shots": 99.0,
+          "saves": 90.0,
           "wins": 1,
           "shutouts": 0.0
         },
