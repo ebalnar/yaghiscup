@@ -1,6 +1,6 @@
 {
   "season": "20262027",
-  "updatedAt": "2026-11-15T18:06:00.172891+00:00",
+  "updatedAt": "2026-11-16T21:21:29.219497+00:00",
   "completedThrough": 0,
   "roster": {
     "Murman Advantage": {
@@ -84,8 +84,8 @@
           "hits": 16.0
         },
         {
-          "goals": 2.0,
-          "assists": 9.0,
+          "goals": 4.0,
+          "assists": 10.0,
           "ppp": 5.0,
           "gwg": 1.0,
           "hits": 3.0
@@ -139,7 +139,7 @@
         },
         {
           "goals": 2.0,
-          "assists": 3.0,
+          "assists": 4.0,
           "ppp": 1.0,
           "gwg": 0.0,
           "hits": 6.0
@@ -198,8 +198,8 @@
           "hits": 6.0
         },
         {
-          "goals": 3.0,
-          "assists": 5.0,
+          "goals": 4.0,
+          "assists": 7.0,
           "ppp": 2.0,
           "gwg": 0.0,
           "hits": 8.0
@@ -292,7 +292,7 @@
           "assists": 2.0,
           "ppp": 0.0,
           "gwg": 0.0,
-          "hits": 3.0
+          "hits": 4.0
         },
         {},
         {},
@@ -426,10 +426,10 @@
           "hits": 11.0
         },
         {
-          "goals": 13.0,
+          "goals": 14.0,
           "assists": 2.0,
           "ppp": 8.0,
-          "gwg": 4.0,
+          "gwg": 5.0,
           "hits": 5.0
         },
         {},
@@ -516,11 +516,11 @@
           "hits": 6.0
         },
         {
-          "goals": 1.0,
-          "assists": 4.0,
+          "goals": 2.0,
+          "assists": 6.0,
           "ppp": 2.0,
           "gwg": 0.0,
-          "hits": 2.0
+          "hits": 3.0
         },
         {},
         {},
@@ -640,7 +640,7 @@
           "assists": 1.0,
           "ppp": 0.0,
           "gwg": 0.0,
-          "hits": 5.0
+          "hits": 6.0
         },
         {},
         {},
@@ -667,10 +667,10 @@
         },
         {
           "goals": 2.0,
-          "assists": 3.0,
+          "assists": 4.0,
           "ppp": 0.0,
           "gwg": 0.0,
-          "hits": 6.0
+          "hits": 7.0
         },
         {},
         {},
@@ -695,8 +695,8 @@
           "shutouts": 0.0
         },
         {
-          "shots": 97.0,
-          "saves": 90.0,
+          "shots": 98.0,
+          "saves": 91.0,
           "wins": 2,
           "shutouts": 0.0
         },
